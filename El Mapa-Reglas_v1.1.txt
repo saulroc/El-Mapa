@@ -1,0 +1,249 @@
+EL MAPA 
+
+CONTENIDO:
+
+	6 x Fichas de jugador:
+		marcadores de un color para los pueblos, las minas y los ejercitos del mapa. 
+		Otros marcadores para los ejercitos en batalla.
+	
+	Contadores de recursos:
+		- Madera (15 x 5 y 25 x 1)
+		- Piedra (10 x 5 y 25 x 1)
+		- Oro (25 x 5 y 25 x 1)
+		- Tropas, cada tropa x1 y x5, como monedas para apilarlas.
+		- Puntos de victoria x1 y x5
+	
+    240 x Fichas del tablero central:
+		Fichas iniciales (18):
+			06 Fichas de pueblo
+			06 minas de madera libres
+			06 minas de piedra con leva		
+		Fichas de primer nivel (48):
+			12 leva neutral (cueva y lago)
+			06 tesoro libre
+			06 tesoro leva
+			06 lago vacío I
+			12 lago vacío II y III
+			06 sembrado vacío			
+		Fichas de segundo nivel (72):	
+			06 2 x tesoro, leva, leva
+			06 tenología de nivel I
+			06 Fichas de pueblo, leva, leva
+			06 tenología de nivel I y leva
+			06 mina madera y leva
+			06 Tesoro y soldados
+			36 parajes vacios (Bosque, montañas + bosque, manzanos + sembrado, paso entre montañas, cementerio, montañas + manzanos)																					
+		Fichas de tercer nivel (102):
+			06 Bosque y dos levas (un lado cerrado)
+			06 2 x tesoro, soldado, arquero
+			06 2 x tesoro, caballeros, soldados
+			06 tenología de nivel II y soldados
+			06 tenología nivel III y caballeros
+			06 mina de piedra, leva y arqueros (un lado cerrado)
+			06 mina de oro y soldado (un lado cerrado)							
+			06 mina de oro, soldado, arquero, tesoro
+			12 parajes vacios 
+			06 Bosque vacío (un lado cerrado)
+			30 parajes vacios con un lado cerrado. (Montaña + pino, montaña + lago, montaña + manzano, lago, sembrado)
+			06 Bosque vacío (dos lados cerrados)									
+			
+	12 x Tablero Castillo
+		
+	72 x Cartas de tecnología:
+		Nivel 1:
+			6 x Pies ligeros: mover 1 casilla más en el mapa, + 1 casilla x tenología-potenciador
+			6 x Punteria: un arquero en un ataque a distancia realiza +1 de daño
+			6 x Velocidad: +1 Iniciativa de una unidad durante un combate, +1 Iniciativa x 2 tenología-potenciador
+			6 x Regateador: Ahorra un oro en la construcción de un edificio, - 1 Oro x 2 tenología-potenciador
+			
+		Nivel 2:
+			6 x BloodLust: Un ataque cuerpo a cuerpo realiza +1 de daño			
+			6 x Vision: Revela 1 casilla del mapa, +1 casilla x 3 tenología-potenciador
+			6 x Suerte: obtener +1 de recursos en un tesoro encontrado en el mapa, + 1 recurso x 3 tenología-potenciador
+			6 x Maderero: Ahorra una madera en la construcción de un edificio, - 1 Madera x 3 tenología-potenciador
+			
+		Nivel 3:
+			6 x Teletransporte: Transportar un ejercito 3 casillas de distancia y gastar 1 mov, + 1 casilla x 4 tenología-potenciador
+			6 x Escudo: +1 Pv a un grupo durante todo un combate, + 1 Pv x 6 tenología-potenciador
+			6 x Producción: + 1 a todos los tipos de recurso de producción de un turno, que se produccan, + 1 x 4 tenología-potenciador
+			6 x Pedrero: Ahorra una piedra en la construcción de un edificio, -1 piedra x 4 tenología-potenciador
+		
+Disposición inicial: 
+	Repartir a cada jugador todas las fichas de su color, y un tablero de pueblo.
+	Un pack de fichas de mapa.
+	Coger 3 oros y añadir 1 leva en su casilla del pueblo.
+	El tablero central se compondrá por las fichas cuadradas de terreno. Las cuales empezarán ya puestas desde un principio bocabajo y ser volteadas al pasar un ejercito cerca. Cada jugador empezará con un pueblo, una mina de madera y una mina de piedra.
+	Colocar una ficha de nivel 3 cada jugador juntas he ir colocando fichas de una en una hasta acabar las de nivel 3, terminando colocando el pueblo, la mina de madera y la de piedra. Otra alternativa es utilizar las siguientes composiciones de mapa dependiendo del número de jugadores.
+	
+	Tablero Central:
+					
+		Para 2 jugadores usar una forma:
+		- 9 x 9. (81) 40 casillas por jugador = 40 puntos
+		3	3	3	3	3	3	3	3		
+		2	2	2	3	3	2	2	2		
+		1	1	2	3	3	2	1	1		
+		P	1	2	3	3	2	1	M		
+		J1	1	2	3	3	2	1	J2		
+		M	1	2	3	3	2	1	P		
+		1	1	2	3	3	2	1	1		
+		2	2	2	3	3	2	2	2		
+		3	3	3	3	3	3	3	3		
+								Nº Fichas	Nivel
+								14	1
+								22	2
+								30	3
+
+		para 3 jugadores:
+		- 9 x 13. 117 casillas, 39 por jugador.
+		
+		3	2	1	M	J3	P	1	2	3		
+		3	2	1	1	1	1	1	2	3		
+		3	2	2	2	2	2	2	2	3		
+		3	3	3	3	3	3	3	3	3		
+		3	3	3	3	3	3	3	3	3		
+		2	2	2	3	3	3	2	2	2		
+		1	1	2	3	3	3	2	1	1		
+		M	1	2	3	3	3	2	1	P		
+		J1	1	2	3	3	3	2	1	J2		
+		P	1	2	3	3	3	2	1	M		
+		1	1	2	3	3	3	2	1	1		
+		2	2	2	3	3	3	2	2	2		
+		3	3	3	3	3	3	3	3	3		
+									Nº	Nivel
+									21	1
+									33	2
+									54	3
+
+		
+		para 4 jugadores:
+		- 12 x 12.  144 36 casillas por jugador = 36 puntos.
+		
+		J1	M	1	1	2	3	3	2	1	1	P	J4		
+		P	1	1	2	2	3	3	2	2	1	1	M		
+		1	1	2	2	2	3	3	2	2	2	1	1		
+		1	2	2	3	3	3	3	3	3	2	2	1		
+		2	2	2	3	3	3	3	3	3	2	2	2		
+		3	3	3	3	3	3	3	3	3	3	3	3		
+		3	3	3	3	3	3	3	3	3	3	3	3		
+		2	2	2	3	3	3	3	3	3	2	2	2		
+		1	2	2	3	3	3	3	3	3	2	2	1		
+		1	1	2	2	2	3	3	2	2	2	1	1		
+		M	1	1	2	2	3	3	2	2	1	1	P		
+		J2	P	1	1	2	3	3	2	1	1	M	J3		
+												Nº	Nivel
+												28	1
+												44	2
+												60	3
+
+		
+		para 5 jugadores:
+		- 14 x 14. 196, 39 casillas
+		
+		
+		
+		para 6 jugadores:
+		- 16 x 16. 256, 42 casillas por jugador = 42 puntos.
+	
+	Se escoge un jugador inicial al azar.
+	
+Turnos de juego:	 
+	- Al inicio de cada turno "criarian" los castillos de todos los jugadores, moviendo las tropas en la columna de reclutamiento y añadiendo a la reserva de cada edificio militar el incremento de tropas ya entrenadas disponibles.
+		Leva 		-> cada 1 turnos
+		Soldado 	-> cada 2 turnos
+		Arquero 	-> cada 1 turnos
+		Caballeria 	-> cada 3 turnos
+	- Recibe los recursos que produzca (oro, madera, piedra, Tecnologías).
+	 
+	- Empieza con su turno, cada jugador en su turno puede realizar cualquiera de las siguientes acciones: 
+		- puede construir en cada castillo un edificio, solo uno por castillo.
+		- puede comerciar con jugadores que tengan mercado o con la banca un material por cantidad de pueblos y mercados.
+		- puede comprar tropas pero solo podrá mover tropas de una casilla por cada pueblo.
+		- puede mover las tropas Norte, Sur, Este, Oeste, eligiendo distintas casillas destino, pero solo una casilla origen por pueblo.
+		- Puede mover las tropas a una casilla ocupada por tropas de un jugador enemigo, daNdo lugar a un conflicto que se resolverá al terminar el turno.		
+		- puede usar Tecnologías
+		
+	- Construcción de Edificios:
+		El jugador podrá construir un edificio de su reserva pagando el coste de construcción y situandolo en el nivel correspondiente. No se puede construir un edificio en un nivel inferior, pero si en un nivel superior. El nivel del edificio es igual a los puntos de victoria que otorga al final de la partida.
+		En el nivel dos solo se puede construir si las dos casillas inferiores estan ya ocupadas, lo mismo con los niveles superiores.
+		
+		Niveles bajos:
+			1 Cuartel: (cuesta 3 de oro y 1 de madera), produce soldados
+			1 Mercado: (cuesta 1 de oro), permite comerciar con otros jugadores y la banca
+			1 Almacen: (cuesta 1 de oro y 1 de madera), permite tener un ejercito más en el mapa, pero no puede combatir
+			1 Ayuntamiento: (cuesta 2 de oro), incrementa el oro + 1
+			1 Biblioteca: (cuesta 3 oro y 1 madera), robas una "tenología" de nivel I
+			1 estatua: (cuesta 1 de oro), 3 puntos de victoria adicionales
+			2 Arqueria: (cuesta 3 de oro y 2 de madera), produce arqueros
+			2 Banco: (cuesta 3 de oro y 1 de madera), incrementa el oro + 1
+			2 Teatro: (cuesta 3 de oro y 1 de madera), 5 puntos de victoria adicionales 
+			2 Laboratorio: (cuesta 5 oro y 2 maderas), robas un "tenología" de nivel II 
+			2 Armería: (cuesta 3 de oro y 1 piedra), dobla el número de unidades entrenadas.
+			2 Atalaya: (cuesta 4 de oro y 1 madera), permite voltear una loseta del mapa por turno.
+			3 Universidad: (cuesta 7 oro, 2 maderas y 1 piedra), robas un "tenología" de nivel III
+			3 Cuadras: (cuesta 5 de oro, 2 de madera y 1 de piedra), produce caballeros
+			3 Tesorería: (cuesta 4 de oro, 2 de madera y 1 piedra), incrementa el oro + 2
+			3 Coliseo: (cuesta 5 de oro, 2 de madera y 1 de piedra) 7 puntos de victoria adicionales 
+									
+		Edificios de niveles altos comunes para todo el mundo:
+			4 Piramides (10 puntos de victoria adicionales), (cuesta 6 de oro, 4 de piedra) + 2 pv x piedra
+			4 Templo de Midas (8 puntos de victoria adicionales), (cuesta 8 de oro, 2 de madera y 1 piedra) + 2 pv x oro
+			4 Templo de Ares (9 puntos de victoria adicionales), (cuesta 5 de oro, 3 de madera y 2 piedra) + 2 pv x tropa entrenada
+			4 Jardines colgantes (8 puntos de victoria adicionales), (cuesta 6 de oro, 7 de madera) + 2 pv x madera
+		
+		
+	- El comercio:
+		Con jugadores podrá ser totalmente libre, y el comercio con la banca vendrá marcado por las tablas que indican los tableros de pueblo:
+			1 madera -> 1 de oro
+			1 piedra -> 2 de oro
+			2 de oro -> 1 madera
+			3 de oro -> 1 piedra
+		Solamente se podrá comerciar un recurso por cada pueblo que se tenga más uno por mercado.
+		
+	- Compra de tropas:
+		Las tropas se iran entrenando automaticamente cada turno y esperando en sus respectivos edificios para ser contratadas.
+			Leva 		-> 1 oro
+			Soldado 	-> 2 oros
+			Arquero 	-> 1 oro
+			Caballeria 	-> 2 oros y 1 madera
+	
+	- Mover ejercitos:
+		Se podrá mover tropas de una casilla del mapa por cada pueblo que posea el jugador, (además de los almacenes), las tropas se moverán al norte, sur, este u oeste, partiendo del pueblo en el que han sido contratados. Cuando una tropa se mueva se voltearán todas las losetas que haya a su alrededor en las 8 direcciones, obteniendo el jugador un punto de victoria por cada loseta.
+		Leva 		-> 2 mapa
+		Soldado 	-> 2 mapa
+		Arquero 	-> 2 mapa
+		Caballeria 	-> 3 mapa
+		Se iran volteando las casillas que se encuentren adayacentes a la nueva casilla ocupada, incluso las diagonales.
+		En las fichas que pueda haber varias cosas. Por ejemplo: 
+			vacia
+			con el icono de un soldado (se debería combatir al situarse en la ficha) Se marca con un ejercito del tipo
+			con una mina pintada y el icono de un recurso (se apropia de la mina)
+			con un tesoro (Cogera una carta de recursos al azar) Se marca con una moneda de oro
+			con un pueblo neutral (se apropia del pueblo)
+			
+	- Combatir:	
+		- Cuando dos grupos de tropas coinciden en la misma casilla se inicia un conflicto, que al final del turno del jugador activo se resuelve con una batalla.
+		- El defensor escoge si quiere huir, perdiendo una tropa.
+		- Si el defensor no huye:
+			- Se causaran ambos ejercitos el número de puntos de daño total de la iniciativa más alta.
+			- Cada jugador repartirá los daños como quiera entre las tropas del contrario.
+		- Puntos de daño total:
+			Serán los puntos de daño multiplicados por la cantidad de tropas que tienen esa iniciativa. Por ejemplo 5 levas harian 5 de daño, matando 2 soldados, 5 arqueros, 5 levas o 1 caballero.
+				Leva (1 pv, 1 daño, 1 iniciativa)
+				Soldado (2 pv, 2 daño, 1 iniciativa)
+				Arquero (1 pv, 1 daño, 1 distancia, 1 iniciativa) Causaran daños tambien si están apostados en casillas cercanas al combate, no pudiendo recibir daños
+				Caballeria (3 pv, 2 daño, 2 iniciativa) Perseguiran a las tropas en huida, causandoles daño a pesar de la retirada.
+			Moriran tantas tropas del pelotón como daño entre puntos de vida, redondeando hacia abajo.
+			
+	- Tecnologías:
+		Se repone uno por cada edificio de ciencia que se posea y por cada "mina" de Tecnologías.
+		Se pueden utilizar de forma instantanea en cada una de las fases anteriores, incluso en el turno de otro jugador si son de combate o de recursos. Algunas Tecnologías se podrán potenciar utilizando Tecnologías boca abajo.
+		Se pueden utilizar para ganar el efecto de forma permanente, gastando 4 puntos de tecnologías para las de nivel 1, 6 para las de nivel 2 y 8 para las de nivel 3.
+	
+Final de la partida:
+	La partida se acaba el turno en el que un jugador construya una maravilla con la que se iguale el número de jugadores y de maravillas construidas o en el turno en el que se revela la última pieza del mapa.
+	Otra forma de terminar la partida es matarlos a todos.
+	
+Sistema de puntuación:
+	Puntuar cada edificio un punto por el nivel del edificio, es decir un cuartel 1 punto, una arqueria 2.
+	Fichas de puntos por cada batalla ganada, un punto por cada unidad derrotada, multiplicado por el nivel, un punto por leva, dos por soldado, etc. Por ejemplo, 5 levas -> 5 puntos, 2 soldados -> 4 puntos.
+	Un punto por cada loseta girada.

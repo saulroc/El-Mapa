@@ -1,0 +1,298 @@
+Nombre del juego: EL MAPA (Provisional)
+
+Fichas de jugador:
+	marcadores de un color para los pueblos, las minas y los ejercitos del mapa.
+	
+	6 x Fichas de jugador:
+		marcadores de un color para los pueblos, las minas y los ejercitos del mapa. 
+		Otros marcadores para los ejercitos en batalla.
+	
+Contadores de recursos:
+		- Madera (15 x 5 y 25 x 1)
+		- Piedra (10 x 5 y 25 x 1)
+		- Oro (25 x 5 y 25 x 1)
+		- Tropas, cada tropa x1 y x5, como monedas para apilarlas. (Se puede cambiar las tropas por cartas)
+		- Puntos por batallas ganadas x1 y x5
+	
+    240 x Fichas del tablero central:
+		
+		18 x Fichas iniciales:
+		
+			06 Fichas de pueblo
+			06 minas de madera libres
+			06 minas de piedra con leva	
+		
+		48 x Fichas de primer nivel:
+				
+			06 leva neutral cueva 
+			06 leva neutral lago
+			06 tesoro libre
+			06 tesoro leva
+			06 lago vacío I
+			06 sembrado vacío
+			06 lago vacío II 
+			06 lago vacío III
+			
+			8 fichas por jugador ( necesarias 7)
+			
+			Enemigos: 	3
+			Tesoro: 	2
+			vacio: 		4
+			
+			48 fichas 50% vacías
+					
+		72 x Fichas de segundo nivel:
+			
+			36 parajes vacios (Bosque, montañas + bosque, manzanos + sembrado, paso entre montañas, cementerio, montañas + manzanos)
+			06 2 x tesoro, leva, leva
+			06 Tesoro y soldados
+			06 Fichas de pueblo, leva, leva
+			06 hechizo de nivel I
+			06 hechizo de nivel I y leva
+			06 mina madera y leva
+			
+												
+			12 fichas por jugador ( necesarias 11)
+			
+			Enemigos: 	5
+			Tesoro: 	2
+			vacio: 		6
+			
+			72 fichas 50% vacías
+			
+		96 x Fichas de tercer nivel:
+			
+			06 Bosque y dos levas (un lado cerrado)
+			06 2 x tesoro, soldado, arquero
+			06 2 x tesoro, caballeros, soldados
+			06 hechizo de nivel II y soldados
+			06 hechizo nivel III y caballeros
+			06 mina de piedra, leva y arqueros (un lado cerrado)
+			06 mina de oro y soldado (un lado cerrado)							
+			06 mina de oro, soldado, arquero, tesoro
+			12 parajes vacios (Bosque feo)
+			06 Bosque vacío (un lado cerrado)
+			30 parajes vacios con un lado cerrado. (Montaña + pino, montaña + lago, montaña + manzano, lago, sembrado)
+			06 Bosque (con dos lados cerrados)
+			
+	
+			17 fichas por jugador ( necesarias 18)
+			
+			Enemigos: 	8
+			Tesoro: 	2
+			vacio: 		6
+			
+			96 fichas 50% vacías
+			
+	12 x Tablero Castillo
+	
+	1 x Tablero de Batallas:
+		Un tablero para simular las batallas
+		Un tablero pequeño, de 5 x 5 casillas.
+		Despejado totalmente o la opción de añadir obstaculos aleatoriamente dentro del tablero.
+		(Posibilidad de quitarlo si pasamos los combates a cartas)
+	
+	72 x Cartas de hechizo:
+		Nivel 1:
+			6 x Pies ligeros: mover 1 casilla más en el mapa, + 1 casilla x hechizo-potenciador
+			6 x Punteria: un ataque a distancia realiza el doble de daño
+			6 x Velocidad: +1 Mov de una unidad durante un combate, +1 Mov x 2 hechizo-potenciador
+			6 x Regateador: Ahorra un oro en la construcción de un edificio, - 1 Oro x 2 hechizo-potenciador
+			
+		Nivel 2:
+			6 x BloodLust: Un ataque cuerpo a cuerpo realiza el doble de daño			
+			6 x Vision: Revela 1 casilla del mapa, +1 casilla x hechizo-potenciador
+			6 x Suerte: obtener +1 de recursos en un tesoro encontrado en el mapa, + 1 recurso x 2 hechizo-potenciador
+			6 x Maderero: Ahorra una madera en la construcción de un edificio, - 1 Madrea x 2 hechizo-potenciador
+			
+		Nivel 3:
+			6 x Teletransporte: Transportar un ejercito 3 casillas de distancia y gastar 1 mov, + 1 casilla x 3 hechizo-potenciador
+			6 x Escudo: +1 Pv a un grupo durante todo un combate, + 1 Pv x 6 hechizo-potenciador
+			6 x Producción: + 1 a toda la producción de un turno, + 1 x 3 hechizo-potenciador
+			6 x Pedrero: Ahorra una piedra en la construcción de un edificio, -1 piedra x 3 hechizo-potenciador
+			
+	
+Tablero Central:
+	El tablero central se compondrá con fichas de 3,5 cm x 3,5 cm cuadradas. Las cuales podrán: 
+		- Estar ya puestas desde un principio bocabajo y ser volteadas al pasar un ejercito cerca.
+		- Sacadas según vayan avanzando los ejercitos por el mapa
+	Habrá fichas especiales de pueblo iniciales, que serán las que se pondrán por cada jugador.
+	Las fichas serán de varios tipos, los tipos indicaran la distancia a las fichas de inicio, para poner: 
+	1 - primero las fichas de minas de madera y piedra y casi ningun monstruo. Las fichas totalmente abiertas para no cerrar caminos
+	2 - fichas de minas de recursos especiales y monstruos debiles. Algunas con un lado cerrado para ir creando cortes en el avance.
+	3 - minas de oro y monstruos fuertes. Con uno o dos lados cerrados para crear un poco de "laberinto"
+	
+	Las fichas encuadradas en un tablero de 35 cm por 35 cm, lo que salen 10x10 casillas, creo que para un juego a 2 jugadores o a 4 en plan rapido es suficiente 100 casillas, pero se puede probar y balancear a posteriori. Ampliable con otros 4 tableros del mismo tamaño. Pudiendo llegar a jugar 20 x 20 400 fichas, en un espació de 70 cm por 70 cm. Losetas tendrían que sobrar, para meter aletoriedad.
+	
+	En las fichas que pueda haber varias cosas. Por ejemplo: 
+		vacia
+		con la cara de un monstruo
+		con una mina pintada
+		con un tesoro (Cogerias una carta de recursos al azar)
+		con un pueblo neutral.
+	
+	El tablero central se compondrá por las fichas cuadradas de terreno. Las cuales empezarán ya puestas desde un principio bocabajo y ser volteadas al pasar un ejercito cerca. Cada jugador empezará con un pueblo, una mina de madera y una mina de piedra.
+	Colocar una ficha de nivel 3 cada jugador juntas he ir colocando fichas de una en una hasta acabar las de nivel 3, terminando colocando el pueblo, la mina de madera y la de piedra. Otra alternativa es utilizar las siguientes composiciones de mapa dependiendo del número de jugadores.
+	
+	Tablero Central:
+					
+		Para 2 jugadores usar una forma:
+		- 9 x 9. (81) 40 casillas por jugador = 40 puntos
+		3	3	3	3	3	3	3	3		
+		2	2	2	3	3	2	2	2		
+		1	1	2	3	3	2	1	1		
+		P	1	2	3	3	2	1	M		
+		J1	1	2	3	3	2	1	J2		
+		M	1	2	3	3	2	1	P		
+		1	1	2	3	3	2	1	1		
+		2	2	2	3	3	2	2	2		
+		3	3	3	3	3	3	3	3		
+								Nº Fichas	Nivel
+								14	1
+								22	2
+								30	3
+
+		para 3 jugadores:
+		- 9 x 13. 117 casillas, 39 por jugador.
+		
+		3	2	1	M	J3	P	1	2	3		
+		3	2	1	1	1	1	1	2	3		
+		3	2	2	2	2	2	2	2	3		
+		3	3	3	3	3	3	3	3	3		
+		3	3	3	3	3	3	3	3	3		
+		2	2	2	3	3	3	2	2	2		
+		1	1	2	3	3	3	2	1	1		
+		M	1	2	3	3	3	2	1	P		
+		J1	1	2	3	3	3	2	1	J2		
+		P	1	2	3	3	3	2	1	M		
+		1	1	2	3	3	3	2	1	1		
+		2	2	2	3	3	3	2	2	2		
+		3	3	3	3	3	3	3	3	3		
+									Nº	Nivel
+									21	1
+									33	2
+									54	3
+
+		
+		para 4 jugadores:
+		- 12 x 12.  144 36 casillas por jugador = 36 puntos.
+		
+		J1	M	1	1	2	3	3	2	1	1	P	J4		
+		P	1	1	2	2	3	3	2	2	1	1	M		
+		1	1	2	2	2	3	3	2	2	2	1	1		
+		1	2	2	3	3	3	3	3	3	2	2	1		
+		2	2	2	3	3	3	3	3	3	2	2	2		
+		3	3	3	3	3	3	3	3	3	3	3	3		
+		3	3	3	3	3	3	3	3	3	3	3	3		
+		2	2	2	3	3	3	3	3	3	2	2	2		
+		1	2	2	3	3	3	3	3	3	2	2	1		
+		1	1	2	2	2	3	3	2	2	2	1	1		
+		M	1	1	2	2	3	3	2	2	1	1	P		
+		J2	P	1	1	2	3	3	2	1	1	M	J3		
+												Nº	Nivel
+												28	1
+												44	2
+												60	3
+
+		
+		para 5 jugadores:
+		- 14 x 14. 196, 39 casillas
+		
+		para 6 jugadores:
+		- 16 x 16. 256, 42 casillas por jugador = 42 puntos.
+	
+	Se escoge un jugador inicial al azar.
+	
+Tablero Castillo:
+	Cada castillo-pueblo tendrá un tablero individual, donde se podrán ir añadiendo construcciones. Taberna, cuarteles, etc.
+	Los castillos generaran oro, unidades y hechizos.
+	Dos opciones de la posible colocaciones de las construcciones:	
+	-Una piramide con huecos (4 + 3 + 2 + 1 = 10 huecos) como en el puerto rico, donde ir colocando los edificos, y que cada edifio pueda ponerse en ciertos niveles. Los niveles indican el nivel más bajo al que puede ponerse, pero siempre se podrán poner en niveles superiores. En los niveles superiores solo podrán ponerse si tienen dos debajo para sostenerlo.
+	
+Edificios:	
+	Edificios de niveles bajos suficientes para todas las ciudades. El nivel es igual a los puntos de victoria que dá.
+	Niveles bajos:
+			1 Cuartel: (cuesta 3 de oro y 1 de madera), produce soldados
+			1 Mercado: (cuesta 1 de oro), permite comerciar con otros jugadores y la banca
+			1 Almacen: (cuesta 1 de oro y 1 de madera), permite tener un ejercito más en el mapa, pero no puede combatir
+			1 Ayuntamiento: (cuesta 2 de oro), incrementa el oro + 1
+			1 Biblioteca: (cuesta 3 oro y 1 madera), robas un "hechizo" de nivel I
+			1 estatua: (cuesta 1 de oro), 3 puntos de victoria adicionales
+			2 Arqueria: (cuesta 3 de oro y 2 de madera), produce arqueros
+			2 Banco: (cuesta 3 de oro y 1 de madera), incrementa el oro + 1
+			2 Teatro: (cuesta 3 de oro y 1 de madera), 5 puntos de victoria adicionales 
+			2 Laboratorio: (cuesta 5 oro y 2 maderas), robas un "hechizo" de nivel II 
+			--2 Armería: (cuesta 3 de oro y 1 piedra), dobla el número de unidades entrenadas.
+			--2 Atalaya: (cuesta 4 de oro y 1 madera), permite voltear una loseta del mapa por turno.
+			3 Universidad: (cuesta 7 oro, 2 maderas y 1 piedra), robas un "hechizo" de nivel III
+			3 Cuadras: (cuesta 5 de oro, 2 de madera y 1 de piedra), produce caballeros
+			3 Tesorería: (cuesta 4 de oro, 2 de madera y 1 piedra), incrementa el oro + 2
+			3 Coliseo: (cuesta 5 de oro, 2 de madera y 1 de piedra) 7 puntos de victoria adicionales 
+									
+	Edificios de niveles altos comunes para todo el mundo:
+		4 Piramides (10 puntos de victoria adicionales), (cuesta 6 de oro, 4 de piedra) + 2 pv x piedra
+		4 Templo de Midas (8 puntos de victoria adicionales), (cuesta 8 de oro, 2 de madera y 1 piedra) + 2 pv x oro
+	45 puntos x jugador x pueblo máximo (sin contar los puestos extra por maravillas)
+	15 puntos x jugador x pueblo como mínimo (completando todas las casillas)
+	
+Tablero de Batallas:
+	Un tablero para simular las batallas
+	Un tablero pequeño, de 5 x 5 casillas.
+	Despejado totalmente o la opción de añadir obstaculos aleatoriamente dentro del tablero.
+	
+Unidades militares:
+	Iguales para todos. 3 o 4 tipos. Entran en unidades en el cuartel y se compran por X recursos. 
+	pv (puntos de vida) x las unidades. el daño x las unidades
+	Leva (1 pv, 1 daño, 1 mov), (cuesta 1 de oro) Cada 1 turnos
+	Soldado (2 pv, 2 daño, 1 mov), (cuesta 2 de oro) Cada 2 turnos
+	Arquero (1 pv, 1 daño / distancia de casillas, 1 mov), (cuesta 2 de oro) Cada 1 turnos
+	Caballeria (3 pv, 2 daño, 2 mov), (cuesta 2 de oro y 1 de madera) Cada 3 turnos
+	
+	Se modifica para que entren cada menos tiempo para tener más tropas, ya que las batallas con pocas tropas no tienen ningun factor estrategico exceptuando la mágia.
+	Las tropas se petan poco y con pocas tropas no tiene estrategia el combate. Tener en cuenta la huida de la batalla como una opción.
+	
+	Cambiar el sistema de combate para que las tropas pasen a ser cartas, se irian comprando cartas que luego se jugarian en las batallas.
+	
+	Heroes con habilidades, como el explorador o montaraz, que su habilidad sea sacar cinco o tres o las losetas, que sean necesarias de movimiento, pero siempre con una mas de bonificación, un guerrero, con uno más de ataque, arquero ...
+	
+"Hechizos":
+	Se consiguen mediante edificios (biblioteca, Universidad, Laboratorio), tambien se podrían obtener en alguna casilla especial del tablero central, divididos en tres niveles por su poder. Podría añadirse el maná para poder usar los hechizos, o para "comprarlos". Pueden ser cartas en las que venga escrito por delante el poder y por detras el nivel en grande.
+	Se tiene uno de cada nivel hasta que se gastan, una vez gastados robas otro en el siguiente turno.
+	Opcion de utilizar los hechizos como pontenciadores, las chozas del mapa son minas, y no hay limite de hechizos en mano.
+	Nivel 1:
+		6 x Pies ligeros: mover 1 casilla más en el mapa, + 1 casilla x hechizo-potenciador
+		6 x Punteria: un ataque a distancia realiza el doble de daño
+		6 x Velocidad: +1 Mov de una unidad durante un combate, +1 Mov x 2 hechizo-potenciador
+		6 x Regateador: Ahorra un oro en la construcción de un edificio, - 1 Oro x 2 hechizo-potenciador
+		
+	Nivel 2:
+		6 x BloodLust: Un ataque cuerpo a cuerpo realiza el doble de daño			
+		6 x Vision: Revela 1 casilla del mapa, +1 casilla x hechizo-potenciador
+		6 x Suerte: obtener +1 de recursos en un tesoro encontrado en el mapa, + 1 recurso x 2 hechizo-potenciador
+		6 x Maderero: Ahorra una madera en la construcción de un edificio, - 1 Madrea x 2 hechizo-potenciador
+		
+	Nivel 3:
+		6 x Teletransporte: Transportar un ejercito 3 casillas de distancia y gastar 1 mov, + 1 casilla x 3 hechizo-potenciador
+		6 x Escudo: +1 Pv a un grupo durante todo un combate, + 1 Pv x 6 hechizo-potenciador
+		6 x Producción: + 1 a toda la producción de un turno, + 1 x 3 hechizo-potenciador
+		6 x Pedrero: Ahorra una piedra en la construcción de un edificio, -1 piedra x 3 hechizo-potenciador
+	
+"Modo de juego":
+	La partida la haría por turnos, que cada jugador juegue su turno, con el peligro del analisis-paralisis. Al inicio de cada ronda "criarian" los castillos de todos los jugadores, añadiendo a la reserva de cada edificio militar el incremento de tropas disponibles. Luego el primer jugador (puede ser rotativo) empieza con su turno: 
+		- puede construir en su castillo un edificio, solo uno
+		- puede comerciar con jugadores que tengan mercado o con la banca (1 Madera -> 1 Oro, 1 Piedra -> 2 Oro)
+		- puede comprar tropas pero solo podrá tener un ejercito por cada pueblo pululando por el mapa (esto opcional a ver que tal funciona)
+		- puede combatir una vez con cada ejercito, luego se "cansan", los ejercitos se mueven las mismas casillas que la tropa más lenta, lo normal será una casilla, se puede multiplicar este número por dos, si se ve que es muy lento o sumarle uno.
+
+Sistema de puntuación:
+	Puntuar: 
+		- cada edificio un punto por el nivel del edificio, es decir un cuartel 1 punto, una arqueria 2, 
+		- Fichas de puntos por cada batalla ganada (para que no se prime solo la construcción), un punto por cada tropa derrotada, multiplicado por el nivel, un punto por leva, dos por soldado, etc. 
+		- Un punto por cada loseta que se gire, primando la exploración.
+	
+	Que la partida se acabe al construir una maravilla o al explorar todo el mapa.
+	
+	- Se pueden dar tipos de puntos distintos, de edificio, de exploración y de guerra y al final de la partida ganar el que tenga más puntuación en la puntuación más baja.
+	
+	Otra forma de determinar el ganador es jugar a matarlos a todos.
+	
