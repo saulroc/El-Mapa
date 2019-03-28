@@ -4,10 +4,13 @@ Ficheros para crear un juego de mesa llamado El Mapa, con los materiales necesar
 
 Maqueta del juego de momento
 
-Archivos a imprimir para jugar:
-Fichas.png
-Edificios.png
-Tablero Castillo 2.png
-Marcadores.png
-Hechizos 2.png
-Hechizos Traseras 2.png
+Archivos a imprimir para jugar: contenido carpeta print-and-play
+
+*******************************************************************
+The-Map
+BoardGame
+Files to build a boardgame named The-Map. Print&Play version.
+
+At the moment model version.
+
+Files to print to play: content of directory print-and-play
